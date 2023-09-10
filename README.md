@@ -32,7 +32,7 @@ Para contribuir, siga estas etapas:
 2. **Clone o repositório:** Use o comando `git clone` para obter uma cópia do seu fork em seu computador.
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-seu-fork.git
+git clone https://github.com/MarcoTSF/Blogger-Website.git
 ```
 
 3. **Crie uma branch:** Crie uma nova branch para trabalhar em sua contribuição.
